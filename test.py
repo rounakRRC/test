@@ -5,6 +5,3 @@ a = 1
 
 def name():
     print("NAME")
-
-def newfunc():
-    print("I AM NEW FUNC")
