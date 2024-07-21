@@ -5,7 +5,3 @@ a = 1
 
 def name():
     print("NAME")
-
-def Above18():
-    return age>=18
-
